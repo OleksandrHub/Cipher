@@ -1,4 +1,4 @@
-# FreeCodeCampPython
-The Scientific Computing with Python curriculum will equip you with the skills to analyze and manipulate data using Python, a powerful and versatile programming language. You'll learn key concepts like data structures, algorithm, Object Oriented Programming, and how to perform complex calculations using a variety of tools.
+# Cipher
+Python is a powerful and popular programming language widely used for data science, data visualization, web development, game development, machine learning and more.
 
-This comprehensive course will guide you through the fundamentals of scientific computing, including data structures, and algorithms.
+In this project, you'll learn fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements. You'll use these to code your first programs.
